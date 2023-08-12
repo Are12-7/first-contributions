@@ -419,6 +419,7 @@
 - [Myo Thet Maung](https://github.com/MyoThetMaung)
 - [Arash Andishgar](https://github.com/arashandishgar)
 - [Michael Silverman](https://github.com/msilverman-va)
+- [Carlos Are12-7](https://github.com/Are12-7)
 - [Susan Shilbi](https://github.com/susan7shilbi)
 - [smschijf](https://github.com/smschijf)
 - [mst4r1o](https://github.com/mst4r1o)
